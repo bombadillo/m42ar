@@ -1,0 +1,17 @@
+{
+  "name": "m42ar",
+  "version": "0.1",
+  "description": "Removes ads from Mind42",
+  "manifest_version": 3,
+  "permissions": [
+    "tabs",
+    "http://*/",
+    "https://*/",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "background": {
+    "scripts": ["app.js"],
+    "persistent": true
+  }
+}
