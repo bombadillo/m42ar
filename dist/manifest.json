@@ -1,8 +1,8 @@
 {
   "name": "m42ar",
-  "version": "0.1",
+  "version": "0.0.2",
   "description": "Removes ads from Mind42",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "permissions": [
     "tabs",
     "http://*/",
