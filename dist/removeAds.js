@@ -10,4 +10,6 @@
 
   content.style.marginRight = '0px';
 
+  window.dispatchEvent(new Event('resize'));
+
 }).call(this);
