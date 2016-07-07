@@ -1,2 +1,2 @@
 # m42ar
-Mind42 advert remover
+Mind42 advert remover chrome extension
